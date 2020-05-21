@@ -1,7 +1,7 @@
 export default function validateLogin(values) {
     let errors = {};
     if (!values.email) {
-    } else if (!/\S+@\S+\.\S+/.test(values.email)) {
+    } else if (!/\S+@\S+\.\S+/.test(values.email)) { //test method
       errors.email = "Email address is invalid";
     }
     if (!values.password) {
