@@ -10,7 +10,7 @@ const Form = () => {
   );
 
   function submit() {
-    console.log("Submitted Succesfully");
+    alert("Submitted Succesfully");
   }
 
   return (
