@@ -1,5 +1,4 @@
-The turorial credit belongs to Matt Upham
-## Available Scripts
+The turorial credit belongs to ## Matt Upham
 
 In the project directory, you can run:
 
